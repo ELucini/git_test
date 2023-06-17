@@ -1,1 +1,2 @@
 Some text
+Trying to "git push" without "git add"
